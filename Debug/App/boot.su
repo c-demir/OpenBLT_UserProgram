@@ -1,0 +1,9 @@
+../App/boot.c:124:13:BootComRs232Init	8	static
+../App/boot.c:300:22:CanGetSpeedConfig	24	static
+../App/boot.c:338:13:BootComCanInit	64	static
+../App/boot.c:215:22:Rs232ReceiveByte	8	static
+../App/boot.c:52:6:BootComInit	8	static
+../App/boot.c:85:6:BootActivate	0	static,ignoring_inline_asm
+../App/boot.c:146:13:BootComRs232CheckActivationRequest	8	static
+../App/boot.c:408:13:BootComCanCheckActivationRequest	48	static
+../App/boot.c:69:6:BootComCheckActivationRequest	8	static

@@ -1,0 +1,9 @@
+../App/boot.c:124:13:BootComRs232Init	1
+../App/boot.c:300:22:CanGetSpeedConfig	4
+../App/boot.c:338:13:BootComCanInit	1
+../App/boot.c:215:22:Rs232ReceiveByte	2
+../App/boot.c:52:6:BootComInit	1
+../App/boot.c:85:6:BootActivate	1
+../App/boot.c:146:13:BootComRs232CheckActivationRequest	8
+../App/boot.c:408:13:BootComCanCheckActivationRequest	5
+../App/boot.c:69:6:BootComCheckActivationRequest	1

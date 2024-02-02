@@ -1,0 +1,7 @@
+C:/Users/bjvyhb/OneDrive - PHINIA/Desktop/FastBit/openBLT/openblt_v011600/Target/Source/com.c:61:6:ComInit	1
+C:/Users/bjvyhb/OneDrive - PHINIA/Desktop/FastBit/openBLT/openblt_v011600/Target/Source/com.c:100:6:ComTask	4
+C:/Users/bjvyhb/OneDrive - PHINIA/Desktop/FastBit/openBLT/openblt_v011600/Target/Source/com.c:150:6:ComFree	1
+C:/Users/bjvyhb/OneDrive - PHINIA/Desktop/FastBit/openBLT/openblt_v011600/Target/Source/com.c:166:6:ComTransmitPacket	4
+C:/Users/bjvyhb/OneDrive - PHINIA/Desktop/FastBit/openBLT/openblt_v011600/Target/Source/com.c:212:12:ComGetActiveInterfaceMaxRxLen	5
+C:/Users/bjvyhb/OneDrive - PHINIA/Desktop/FastBit/openBLT/openblt_v011600/Target/Source/com.c:250:12:ComGetActiveInterfaceMaxTxLen	5
+C:/Users/bjvyhb/OneDrive - PHINIA/Desktop/FastBit/openBLT/openblt_v011600/Target/Source/com.c:287:10:ComIsConnected	2

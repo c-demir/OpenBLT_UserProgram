@@ -1,0 +1,4 @@
+C:/Users/bjvyhb/OneDrive - PHINIA/Desktop/FastBit/openBLT/openblt_v011600/Target/Source/ARMCM4_STM32F4/can.c:120:17:CanGetSpeedConfig	5
+C:/Users/bjvyhb/OneDrive - PHINIA/Desktop/FastBit/openBLT/openblt_v011600/Target/Source/ARMCM4_STM32F4/can.c:161:6:CanInit	3
+C:/Users/bjvyhb/OneDrive - PHINIA/Desktop/FastBit/openBLT/openblt_v011600/Target/Source/ARMCM4_STM32F4/can.c:253:6:CanTransmitPacket	5
+C:/Users/bjvyhb/OneDrive - PHINIA/Desktop/FastBit/openBLT/openblt_v011600/Target/Source/ARMCM4_STM32F4/can.c:310:10:CanReceivePacket	8
